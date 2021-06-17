@@ -1,4 +1,4 @@
-name: 'CloudFlare2DNS'
+name: 'cfdns2'
 
 on:
   push:
